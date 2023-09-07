@@ -1,0 +1,1 @@
+INSERT INTO id_generation VALUES(1, 15000000, now());
